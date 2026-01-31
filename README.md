@@ -2,8 +2,11 @@
 This project focuses on analyzing e-commerce sales data to uncover revenue drivers, profit trends, and the impact of discounting on business performance. The analysis was performed using Python, SQL, and Power BI, following an end-to-end data analytics workflow.
 # Business Objectives
 Identify top revenue-generating categories and regions
+
 Analyze profit performance across sub-categories
+
 Understand the impact of discounts on profitability
+
 Build an interactive dashboard for business decision-making
 # Tools and Technologies
 Python (Pandas, NumPy, Matplotlib) – Data cleaning & EDA
