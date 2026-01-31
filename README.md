@@ -19,25 +19,13 @@ Excel – Cleaned data export for Power BI integration
 # Dataset
 Source: Sample Superstore dataset
 
-Data includes sales transactions with information on:
- Category & Sub-Category
- Region & Segment
- Sales, Profit, Quantity, Discount
+Data includes sales transactions with information on: Category & Sub-Category, Region & Segment, Sales, Profit, Quantity, Discount
 # Project Workflow
-Data Cleaning & EDA (Python): Removed inconsistencies and handled data types
- 
- Performed exploratory data analysis to understand trends
-SQL Analysis (MySQL): Calculated KPIs such as total sales, total profit, and profit by category
-  
-  Used aggregations and grouping for business insights
-  
-Dashboard Development (Power BI)
+Data Cleaning & EDA (Python): Removed inconsistencies and handled data types,Performed exploratory data analysis to understand trends
 
- -Created DAX measures for Sales, Profit, Orders, and Profit Margin
- 
- -Built KPI cards, bar charts, column charts, and scatter plots
- 
- -Added slicers for Category, Region, and Segment
+SQL Analysis (MySQL): Calculated KPIs such as total sales, total profit, and profit by category, Used aggregations and grouping for business insights
+  
+Dashboard Development (Power BI): Created DAX measures for Sales, Profit, Orders, and Profit Margin, Built KPI cards, bar charts, column charts, and scatter plots, Added slicers for Category, Region, and Segment
 # Power BI Dashboard Features
 KPI Cards: Total Sales, Total Profit, Total Orders, Profit Margin %
 Sales by Category – Identifies revenue drivers
